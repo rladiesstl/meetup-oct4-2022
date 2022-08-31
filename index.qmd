@@ -8,7 +8,7 @@ self-contained: true
 
 # Materials for tonight
 
--   All materials can be found here: <https://github.com/rladiesstl/oct-4-2022>
+-   All materials can be found here: <https://rladiesstl.github.io/meetup-oct4-2022/#/title-slide>
 
 -   Have R and RStudio installed on your computer
 
