@@ -1,1 +1,2 @@
-# oct-4-2022
+
+## See intro slides here: https://github.com/rladiesstl/oct-4-2022
