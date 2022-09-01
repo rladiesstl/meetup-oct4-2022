@@ -1,12 +1,12 @@
 /*-- scss:defaults --*/
 // importing fonts
-@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Lato&family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Lato&family=Roboto&display=swap');
 
 // fonts
 $font-family-sans-serif: 'Lato', Tahoma, sans-serif !default;
 
 // headings
-$presentation-heading-font: 'Yanone Kaffeesatz',  Tahoma, sans-serif  !default;
+$presentation-heading-font: 'Roboto',  Tahoma, sans-serif  !default;
 $presentation-heading-color: #562457 !default;
 $h1-font-size: 1.6em !default;
 $h2-font-size: 1.3em !default;
