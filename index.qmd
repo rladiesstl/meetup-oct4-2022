@@ -2,7 +2,9 @@
 title: "Welcome to R-Ladies St. Louis"
 subtitle: "Wrangling Data in the Tidyverse"
 date: "October 4, 2022"
-format: rladies-revealjs
+format: 
+  rladies-revealjs:
+    footer: "Code available on [GitHub](https://github.com/rladiesstl/meetup-oct4-2022)."
 self-contained: true
 ---
 
