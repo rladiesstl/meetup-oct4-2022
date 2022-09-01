@@ -27,7 +27,7 @@ Speaker notes go here.
 -   Started in San Francisco in 2012 and now has **206 chapters and more than 93,000** members globally (check out rladies.org for a Shiny dashboard)
 
 ```{r}
-#| echo: FALSE
+#| echo: false
 #| fig.align: center
 #| fig-height: 2
 
