@@ -2,7 +2,9 @@
 title: "Welcome to R-Ladies St. Louis"
 subtitle: "Wrangling Data in the Tidyverse"
 date: "October 4, 2022"
-format: rladies-revealjs
+format: 
+  rladies-revealjs:
+    footer: "Code available on [GitHub](https://github.com/rladiesstl/meetup-oct4-2022)."
 self-contained: true
 ---
 
@@ -25,7 +27,7 @@ Speaker notes go here.
 -   Started in San Francisco in 2012 and now has **206 chapters and more than 93,000** members globally (check out rladies.org for a Shiny dashboard)
 
 ```{r}
-#| echo: FALSE
+#| echo: false
 #| fig.align: center
 #| fig-height: 2
 
