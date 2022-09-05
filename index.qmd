@@ -12,11 +12,7 @@ self-contained: true
 
 -   Have R and RStudio installed on your computer
 
--   Try to install the package `tidyverse` in RStudio
-
-::: notes
-Speaker notes go here.
-:::
+-   Install the package `tidyverse` in RStudio
 
 # What is R-Ladies? {.smaller}
 
@@ -24,14 +20,7 @@ Speaker notes go here.
 
 -   Started in San Francisco in 2012 and now has **206 chapters and more than 93,000** members globally (check out rladies.org for a Shiny dashboard)
 
-```{r}
-#| echo: FALSE
-#| fig.align: center
-#| fig-height: 2
-
-knitr::include_graphics("img/rladies2022.jpg")
-
-```
+![](img/rladies2022.jpg){fig-align="center"}
 
 # R-Ladies St. Louis
 
@@ -42,10 +31,10 @@ Started in September 2017 by Jenine Harris and Chelsea West
 Co-organizers for **`2022-23`** include:
 
 -   Jenine Harris (Washington University)\
--   Mary Painter (Washington University)\
+-   Mary Painter (University of Colorado, Boulder)\
 -   Shelly Cooper (Washington University)\
 -   Crystal Lewis (Freelance Consultant)\
--   Laura Rose (Mallinckrodt Pharmaceuticals)
+-   Laura Rose (Hinge Health)
 
 # 2022 Fall Schedule
 
@@ -53,8 +42,8 @@ Each week in October we will be featuring an Introductory R topic during our Oct
 
 -   **`Tonight:`** Wrangling Data in the Tidyverse with **Joscelin Rocha-Hidalgo** (Organization)
 -   **`Next Tuesday Oct.11:`** Intro to Iteration: for loops and functions with **Merve Ileri Tayar** (Washington University)
--   **`Tuesday Oct.17:`** Clinical reporting with gtsummary with **Daniel Sjoberg** (Memorial Sloan Kettering Cancer Center)
--   **`Tuesday Oct.27:`** Intro to Quarto with **Isabella Velasquez** (Posit)
+-   **`Monday Oct.17:`** Clinical reporting with gtsummary with **Daniel Sjoberg** (Memorial Sloan Kettering Cancer Center)
+-   **`Thursday Oct.27:`** Intro to Quarto with **Isabella Velasquez** (Posit)
 
 # Announcements
 
@@ -90,7 +79,6 @@ Visit **rladies.org** to learn about the mission and global work of R-Ladies
 
 # About tonight's speaker
 
--   A line
--   Another line
--   Another line
--   More lines
+-   Joscelin received her doctoral degree in Lifespan Cognitive Neuroscience at Georgetown University, where she focused on children's cognitive development and factors such as bilingualism and media.
+-   She currently works at Penn State as a Postdoctoral Fellow looking at Parent-Child brain activity synchrony and temperament development.
+-   On June of 2022, Joscelin also joined the team of "R for the Rest of Us" as its first intern.
