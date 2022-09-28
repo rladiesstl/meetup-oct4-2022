@@ -8,7 +8,7 @@ self-contained: true
 
 # Materials for tonight
 
--   All materials can be found here: <https://rladiesstl.github.io/meetup-oct4-2022/#/title-slide>
+-   All materials can be found here: <https://github.com/Joscelinrocha/Rladies-Wrangling-Data-in-the-Tidyverse>
 
 -   Have R and RStudio installed on your computer
 
@@ -33,14 +33,14 @@ Co-organizers for **`2022-23`** include:
 -   Jenine Harris (Washington University)\
 -   Mary Painter (University of Colorado, Boulder)\
 -   Shelly Cooper (Washington University)\
--   Crystal Lewis (Freelance Consultant)\
+-   Crystal Lewis (Freelance Data Management Consultant)\
 -   Laura Rose (Hinge Health)
 
 # 2022 Fall Schedule
 
 Each week in October we will be featuring an Introductory R topic during our OctobeR ExtRavaganza
 
--   **`Tonight:`** Wrangling Data in the Tidyverse with **Joscelin Rocha-Hidalgo** (Organization)
+-   **`Tonight:`** Wrangling Data in the Tidyverse with **Joscelin Rocha-Hidalgo** (Penn State)
 -   **`Next Tuesday Oct.11:`** Intro to Iteration: for loops and functions with **Merve Ileri Tayar** (Washington University)
 -   **`Monday Oct.17:`** Clinical reporting with gtsummary with **Daniel Sjoberg** (Memorial Sloan Kettering Cancer Center)
 -   **`Thursday Oct.27:`** Intro to Quarto with **Isabella Velasquez** (Posit)
